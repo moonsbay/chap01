@@ -4,7 +4,7 @@ public class Hello {
 		System.out.println("\033[2j");
 
 		System.out.println("\033[31m");
-		System.out.println("\033[44m");
+		System.out.println("\033[44m"); 
 		System.out.print("\033[5;10H");
 		System.out.println("Hello Java!");
 		
