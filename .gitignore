@@ -2,3 +2,5 @@
 *.pw
 *.class
 *.swp
+.classpath
+.project
