@@ -20,7 +20,7 @@ public class Hello {
 
 		System.out.println("\033[34m");
 		System.out.println("\033[41m");
-		System.out.print("\033[25;20H");
+		System.out.print("\033[25;21H");
 		System.out.println("Hello JavaSQL!");
 
 		System.out.println("\033[0m");
